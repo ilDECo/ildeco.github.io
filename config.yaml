@@ -1,9 +1,9 @@
-baseURL: https://eternity.bora.sh # todo: change site url.
+baseURL: https://ildeco.github.io # todo: change site url.
+publishDir: "docs"
 title: leone # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
-
 params:
   image: /images/background.jpeg
   logo: https://www.twosmallbirds.art/logo.png
