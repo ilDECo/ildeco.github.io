@@ -1,10 +1,12 @@
 ---
 title: work
+images:
+- /images/Predator_Wallpaper_02_3840x2400.jpg
 url: work
 ---
 
 <div align="center">
 	<p>
-        Immagini gratis
+        Pagina principale
 	</p>
 </div>
