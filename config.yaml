@@ -39,7 +39,7 @@ params:
   specialPages:
     - work
     - archive
-  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
+  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
   disableWelcomePageBackground: true # disables the background image on the homepage
   plausible: '' # todo: set your plausible id.
   disableRadius: false
