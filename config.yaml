@@ -31,8 +31,7 @@ params:
 #   - icon: 'fab fa-github fa-lg'
 #     url: 'https://github.com/boratanrikulu/eternity'
 #     landing: true
-   - icon: '
-   '
+   - icon: 'favicon.ico'
      url: 'https://instagram.com/leon.nn.leo'
 #   - icon: 'fab fa-linkedin-in fa-lg'
 #     url: 'https://linkedin.bora.sh/in/eternity'
