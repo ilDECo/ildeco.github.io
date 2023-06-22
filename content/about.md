@@ -10,6 +10,7 @@ hideDate: true
 ![io](/Saa.png)
 
 <section class=section>
+	<div class=center>
     <div class=slide info=true path=/about/>
     <div>
         <div class=center>
@@ -21,7 +22,7 @@ hideDate: true
                 <div class=content>
                     <div align=left-aligned>
                         <p style=font-size:3em;margin-bottom:.5em>
-                            I’m Leon, game developer 💻  
+                            I’m Leon, game developer 💻<br>
 							and aspiring designer 📚<br>
                         </p>
                         <p style=margin-bottom:.5em>
