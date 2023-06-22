@@ -11,7 +11,7 @@ params:
   subtitle: siparl. # todo: change default subtitle for your website.
   copyright: non rubare dal mio sito. # todo: set your copyright type.
   author: # todo: set your full name.
-  dontShowSource: false # please, do not do this :)
+  dontShowSource: true # please, do not do this :)
   portfolio:
     columns:
       desktop:
@@ -39,8 +39,8 @@ params:
   specialPages:
     - work
     - archive
-  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
-  disableWelcomePageBackground: false # disables the background image on the homepage
+  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
+  disableWelcomePageBackground: true # disables the background image on the homepage
   plausible: '' # todo: set your plausible id.
   disableRadius: false
   moveIt: false  # Moves Title and Meta info down, only visible when scroll.

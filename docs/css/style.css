@@ -200,7 +200,7 @@
 }
 
 nav.navbar {
-    background-color: var(--white);
+    background-color: #000000;
     justify-content: people-between;
     align-items: center;
     margin-left: 2em;
