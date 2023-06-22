@@ -1,5 +1,6 @@
 ---
 title: work
+hideTitle: true
 images:
 - /images/Predator_Wallpaper_02_3840x2400.jpg
 url: work
