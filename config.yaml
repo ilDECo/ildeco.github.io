@@ -38,7 +38,6 @@ params:
   homepage: "/work" # homepage link, mostly same with menu.main[0]
   specialPages:
     - work
-    - about
   bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
   disableWelcomePageBackground: true # disables the background image on the homepage
   plausible: '' # todo: set your plausible id.
