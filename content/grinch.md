@@ -4,7 +4,7 @@ images:
 title: Grinch
 subtitle: GrinchFamily
 url: grinch
-hideTitle: true
+hideTitle: false
 hideExif: true
 hideDate: true
 ---

@@ -2,9 +2,9 @@
 title: about me
 subtitle: about me
 url: about
-hideTitle: true
+hideTitle: false
 hideExif: true
-hideDate: true
+hideDate: truehug
 ---
 
 ![io](/Saa.png)
@@ -23,7 +23,7 @@ hideDate: true
                     <div align=left-aligned>
                         <p style=font-size:3em;margin-bottom:.5em>
                             I’m Leon, game developer 💻<br>
-							and aspiring designer 📚<br>
+							and aspiring designer 📓<br>
                         </p>
                         <p style=margin-bottom:.5em>
                             Sono nato e cresciuto in <a target=_blank href=https://goo.su/Z5dsDF style=color:var(--main) onmouseover='this.style.color="var(--dark)"' onmouseout='this.style.color="var(--main)"'>Georgia</a>, all'età di 14 anni mi sono trasferito a vivere in Italia, ho iniziato ad apprendere le basi della lingua italiana in un liceo artistico dopo la laurea mi sono iscritto all'accademia di belle arti e ora sono un studente del corso di Nuove Tecnologie dell'Arte 💻
