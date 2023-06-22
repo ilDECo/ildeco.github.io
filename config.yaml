@@ -39,7 +39,7 @@ params:
   specialPages:
     - work
     - archive
-  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
+  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
   disableWelcomePageBackground: true # disables the background image on the homepage
   plausible: '' # todo: set your plausible id.
   disableRadius: false
@@ -69,6 +69,6 @@ menu:
     - name: grinch
       url: /grinch/
       weight: 3
-    - name: Contact
-      url: /contact/
+    - name: about
+      url: /about/
       weight: 4
