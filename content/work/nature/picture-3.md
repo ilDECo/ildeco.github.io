@@ -1,9 +1,8 @@
 ---
-weight: 3
+weight: -5
 images:
 - /images/img/3.jpg
-title: nature 3
+title: picture 3
 tags:
-- archive # all posts
 - nature
 ---

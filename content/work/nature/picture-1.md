@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 12
 images:
 - /images/img/1.jpg
 title: picture 1

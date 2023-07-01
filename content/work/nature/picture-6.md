@@ -1,8 +1,8 @@
 ---
-weight: 7
+weight: -2
 images:
 - /images/img/6.jpg
-title: nature 6
+title: picture 6
 tags:
 - nature
 ---
