@@ -1,6 +1,6 @@
 baseURL: https://ildeco.github.io # todo: change site url.
 publishDir: "docs"
-title: leone # todo: change site name.
+title: leon # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
@@ -65,9 +65,6 @@ menu:
     - name: Pictures
       url: /tags/nature/
       weight: 2
-    - name: grinch
-      url: /grinch/
-      weight: 3
     - name: about
       url: /about/
-      weight: 4
+      weight: 3

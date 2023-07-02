@@ -1,4 +1,5 @@
 ---
 title: tags
-subtitle: Grinch
+subtitle: Leon
+hideTitle: true
 ---

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>leone</title>
+    <title>leon</title>
     <link>https://ildeco.github.io/</link>
     <description>Recent content on leone</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -323,7 +323,15 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum 
       <description>
 I’m Leon, game developer 💻
 and aspiring designer 📓
-Sono nato e cresciuto in Georgia, all&#39;età di 16 anni mi sono trasferito a vivere in Italia, ho iniziato ad apprendere le basi della lingua italiana in un liceo artistico dopo la laurea mi sono iscritto all&#39;Accademia di Belle Arti RC e ora sono un studente del corso di Nuove Tecnologie dell&#39;Arte 💻Mi piace...Viaggio (ho visitato paesi come Grecia, Georgia, Ucraina, Russia, Italia)DisegnareMusica (rap russo) 🎵Creazione di videogiochi 🎮Giocare video giochi (Adoro i giochi online) 🎮Sport (stile di vita sportivo) 💪</description>
+Sono nato e cresciuto in Georgia, all&#39;età di 16 anni mi sono trasferito a vivere in Italia, ho iniziato ad apprendere le basi della lingua italiana in un liceo artistico dopo la laurea mi sono iscritto all&#39;Accademia di Belle Arti RC e ora sono un studente del corso di Nuove Tecnologie dell&#39;Arte 💻
+Mi piace...
+Viaggio (ho visitato paesi come Grecia, Georgia, Ucraina, Russia, Italia)
+Disegnare
+Musica (rap russo) 🎵
+Creazione di videogiochi 🎮
+Giocare video giochi (Adoro i giochi online) 🎮
+Sport (stile di vita sportivo) 💪
+</description>
     </item>
     
     <item>
@@ -332,7 +340,9 @@ Sono nato e cresciuto in Georgia, all&#39;età di 16 anni mi sono trasferito a v
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ildeco.github.io/grinch/</guid>
-      <description>Qua si parla su cose serie giocho serie non si scherza!!</description>
+      <description>
+Qua si parla su cose serie giocho serie non si scherza!!
+</description>
     </item>
     
   </channel>
