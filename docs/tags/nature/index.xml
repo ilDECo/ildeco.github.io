@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>nature on leone</title>
+    <title>nature on leon</title>
     <link>https://ildeco.github.io/tags/nature/</link>
-    <description>Recent content in nature on leone</description>
+    <description>Recent content in nature on leon</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://ildeco.github.io/tags/nature/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>picture 32</title>
@@ -69,7 +69,7 @@
     </item>
     
     <item>
-      <title>nature 15</title>
+      <title>picture 15</title>
       <link>https://ildeco.github.io/picture-15/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -114,7 +114,7 @@
     </item>
     
     <item>
-      <title>nature 17</title>
+      <title>picture 17</title>
       <link>https://ildeco.github.io/picture-17/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -150,7 +150,7 @@
     </item>
     
     <item>
-      <title>nature 14</title>
+      <title>picture 14</title>
       <link>https://ildeco.github.io/picture-14/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -240,7 +240,7 @@
     </item>
     
     <item>
-      <title>nature 10</title>
+      <title>picture 10</title>
       <link>https://ildeco.github.io/picture-7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -249,20 +249,11 @@
     </item>
     
     <item>
-      <title>nature 8</title>
+      <title>picture 8</title>
       <link>https://ildeco.github.io/picture-8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ildeco.github.io/picture-8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nature 12</title>
-      <link>https://ildeco.github.io/picture-12/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ildeco.github.io/picture-12/</guid>
       <description></description>
     </item>
     
@@ -278,7 +269,16 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum 
     </item>
     
     <item>
-      <title>nature 13</title>
+      <title>picture 12</title>
+      <link>https://ildeco.github.io/picture-12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ildeco.github.io/picture-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>picture 13</title>
       <link>https://ildeco.github.io/picture-13/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

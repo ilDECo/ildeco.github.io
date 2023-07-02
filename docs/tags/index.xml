@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tags on leone</title>
+    <title>tags on leon</title>
     <link>https://ildeco.github.io/tags/</link>
-    <description>Recent content in tags on leone</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ildeco.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in tags on leon</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ildeco.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>bio</title>
-      <link>https://ildeco.github.io/tags/bio/</link>
-      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <title>disegni</title>
+      <link>https://ildeco.github.io/tags/disegni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ildeco.github.io/tags/bio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>work</title>
-      <link>https://ildeco.github.io/tags/work/</link>
-      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://ildeco.github.io/tags/work/</guid>
+      <guid>https://ildeco.github.io/tags/disegni/</guid>
       <description></description>
     </item>
     
@@ -30,6 +20,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ildeco.github.io/tags/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>work</title>
+      <link>https://ildeco.github.io/tags/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ildeco.github.io/tags/work/</guid>
       <description></description>
     </item>
     
